@@ -1,2 +1,2 @@
 # Samurai-Sudoku
-Samurai Sudoku solver program developed by Java.
+Samurai Sudoku solver program developed by using Java.
